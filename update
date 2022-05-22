@@ -1,0 +1,49 @@
+course_list = [
+    {https://github.com/Akib154/elms2
+        'id': 1,
+        'title': "Operating System",
+        'notice': [
+            {
+                'id': 1,
+                'title': "notice1"
+            }
+        ]
+    },
+    {
+        'id': 2,
+        'title': "DBMS",
+        'notice': [
+            {
+                'id': 1,
+                'title': "notice3"
+            }
+        ]
+    },
+    {'id': 3,
+     'title': "Software Engineering",
+     'notice': [
+         {
+             'id': 1,
+             'title': "notice3"
+         }
+     ]
+     },
+    {'id': 4,
+     'title': "Project Management",
+     'notice': [
+         {
+             'id': 1,
+             'title': "notice3"
+         }
+     ]
+     },
+     {'id': 5,
+     'title': "Green Computing",
+     'notice': [
+         {
+             'id': 1,
+             'title': "notice2"
+         }
+     ]
+     },
+]
